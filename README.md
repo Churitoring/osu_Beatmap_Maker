@@ -1,5 +1,5 @@
 ## osu! Beatmap Maker
-ver 0.0.1
+ver. 0.0.1
 made by Churitoring
 
 ## How To Use?
