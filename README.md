@@ -15,6 +15,6 @@ made by Churitoring
 
 ## ETC.
 - NOT SUPPORT SLIDER(If osu mania, It is LONG NOTE.)
-- When opening 'osu' files, you can use the default Windows program, which is Notepad.
+- When opening '.osu' files, you can use the default Windows program, which is Notepad.
 - This program only supports Windows.
 - You want Change HitSound, Change sound.mp3. But, The name(sound.mp3) should remain the same.
